@@ -1,0 +1,8 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+}
+
+body {
+  min-height: 100vh;
+}
